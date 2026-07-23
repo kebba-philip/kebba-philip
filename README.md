@@ -20,7 +20,7 @@ I'm a **Computer Science** student from Gambia with a strong passion for backend
 
 ## Boot.dev
 
-<p align="right">
+<p align="center">
   <img src="https://api.boot.dev/v1/users/public/6d36e085-d4b7-43fe-a82b-5b42a3057dae/thumbnail" >
 </p>
 
