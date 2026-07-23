@@ -59,7 +59,7 @@ I'm a **Computer Science** student from Gambia with a strong passion for backend
 ### Skills
 
 - **Languages**: Python, HTML, CSS, JavaScript
-- **Tools : Git, Linux, Pygame, Responsive Design
+- **Tools** : Git, Linux, Pygame, Responsive Design
 - **Concepts**: Object-Oriented Programming, Version Control, Game Development
 - **Learning**: Backend architectures, SQL, REST APIs, testing, and more through boot.dev
 
@@ -85,7 +85,6 @@ I'm a **Computer Science** student from Gambia with a strong passion for backend
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kebba-philip&show_icons=true&theme=radical" alt="Kebba's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebba-philip&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kebba-philip&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kebba-philip&layout=compact&theme=radical)
