@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Kebba Philip (KEBBA NJIE) 👋</h1>
+  <h1>Hi there, I'm Kebba Philip 👋</h1>
   
   <p>
     <strong>Computer Science Student</strong> | Aspiring Backend Developer | Python Enthusiast
@@ -18,15 +18,17 @@
 
 I'm a **Computer Science** student from Gambia with a strong passion for backend development. I'm currently progressing through the **boot.dev** backend learning path while building practical projects and strengthening my fundamentals.
 
-## Boot.dev
-
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/6d36e085-d4b7-43fe-a82b-5b42a3057dae/thumbnail" >
-</p>
 
 **Currently focusing on:**
 - Backend development (APIs, databases, authentication, deployment)
 - Writing clean, maintainable, and production-ready code
+
+## Boot.dev
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/6d36e085-d4b7-43fe-a82b-5b42a3057dae/thumbnail" >
+</p>
+
 
 ### Completed Certifications & Courses
 
