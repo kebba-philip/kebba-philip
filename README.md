@@ -39,7 +39,6 @@ I'm a **Computer Science** student from Gambia with a strong passion for backend
 
 - **Languages**: Python, HTML, CSS, JavaScript
 - **Tools** : Git, Linux, Pygame, Responsive Design
-- **Concepts**: Object-Oriented Programming, Version Control, Game Development
 - **Learning**: Backend architectures, SQL, REST APIs, testing, and more through boot.dev
 
 ### 🌐 Connect with Me
