@@ -29,35 +29,6 @@ I'm a **Computer Science** student from Gambia with a strong passion for backend
   <img src="https://api.boot.dev/v1/users/public/6d36e085-d4b7-43fe-a82b-5b42a3057dae/thumbnail" >
 </p>
 
-
-### Completed Certifications & Courses
-
-- **Learn to Code in Python** — boot.dev
-
-[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/484caa75-072f-484d-a268-c108529c319b.jpeg?v=1783551078)](https://www.boot.dev/certificates/484caa75-072f-484d-a268-c108529c319b)
-
-- **Learn Linux** — boot.dev 
-
-[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ec033d3b-4731-49bb-b89f-b1672f2f2743.jpeg?v=1783793035)](https://www.boot.dev/certificates/ec033d3b-4731-49bb-b89f-b1672f2f2743)
-
-- **Learn Git** — boot.dev
-
-[![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/b63b0220-ce9c-4f61-ad0b-64eb40d60681.jpeg?v=1784226054)](https://www.boot.dev/certificates/b63b0220-ce9c-4f61-ad0b-64eb40d60681)
-
-- **Build a Book Bot in Python** — boot.dev
-
-[![Boot.dev Build a Bookbot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0e5c79fa-de39-4b36-ad3d-bd7f9d21d2b5.jpeg?v=1784049339)](https://www.boot.dev/certificates/0e5c79fa-de39-4b36-ad3d-bd7f9d21d2b5)
-
-- **Learn Object-Oriented Programming** — boot.dev 
-
- [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c1134ce8-41bc-473a-89ba-447c50f20169.jpeg?v=1784487588)](https://www.boot.dev/certificates/c1134ce8-41bc-473a-89ba-447c50f20169)
-
-- **Build Asteroids using Python & Pygame** — boot.dev
-
-- [![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/f0d91054-e2e1-4536-9cbf-d12e32da4506.jpeg?v=1784748413)](https://www.boot.dev/certificates/f0d91054-e2e1-4536-9cbf-d12e32da4506)
-
-- **Responsive Web Design Certification** — [freeCodeCamp](https://freecodecamp.org/certification/kebbaphilip/responsive-web-design-v9)
-
 ### Featured Projects
 
 - **[asteroid-pygame](https://github.com/kebba-philip/asteroid-pygame)** — Classic Asteroids game built with Python and Pygame (OOP, collision detection, game loops)
